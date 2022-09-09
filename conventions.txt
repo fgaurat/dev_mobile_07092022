@@ -1,0 +1,7 @@
+
+
+HelloWorld => UpperCamelCase => Class
+helloWorld => camelCase => method & variables
+HELLOWORLD => UPPERCASE => const
+hello_world => snake_case => method & variables
+hello-world => kebab-case, CSS: background-color => JS element.style.backgroundColor
